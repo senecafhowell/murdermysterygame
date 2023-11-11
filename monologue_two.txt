@@ -1,0 +1,33 @@
+With your chosen trait under your belt, you are now ready to enter the house. 
+You take a deep breath, and open the door. Welcome to Cryptic.
+
+In this game, you will be tasked with figuring out who committed the crime, 
+with what item, and in what room (similar to that of the game “Clue”). 
+You will be presented with a floor plan of the house. 
+
+Starting with the top left room, moving left to right, and then top to bottom, 
+the rooms are as follows: Bedroom, Office, Entryway, Dining Room, Hallway, Bathroom, Kitchen, and Living Room
+(so, the top left room is the bedroom, the hallway is the horizontal stretch in the middle of the house, 
+and the bottom right room is the living room).
+
+You are able to move freely throughout the house 
+(except, you cannot walk through walls - the ‘~’ symbol marks that of a door that you can use to enter a room). 
+If you reach a space that has a ‘C’ or ‘o’ on it, that means you’ve reached a character or discovery point, respectively. 
+Use the interact feature to get information from these places 
+(be careful, though- some interactions/events may not go smoothly!). 
+Use the print known information feature if you wish to print all information you have gathered thus far.
+
+At any time, you are able to make a simple guess for any of the three elements (weapon, person, place). 
+The simple guess will let you know if you are right or wrong on that specific aspect. 
+Be careful, though, because too many wrong simple guesses could cost you the game.
+
+You begin the game with 25 lives. Various actions will cause you to gain or lose lives. 
+For example, making an incorrect simple guess will lose you anywhere from 1-5 lives. 
+As a result, you need to be careful with your guesses- as hitting zero lives will cause you to lose the game.
+
+When you feel confident that you know who committed the crime, with what, and where, you can make your final accusation. 
+If all three elements are guessed correctly, and you are above the lives threshold 
+(have a healthy amount of lives remaining (greater than or equal to 10)), you successfully solved the case (you win)! 
+Otherwise, you did not successfully solve the case, and will lose. So, make sure you’re ready before you commit to making a final guess.
+
+And, with that, Detective, you’re off! Good luck with your mission.

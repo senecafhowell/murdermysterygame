@@ -1,0 +1,80 @@
+--------------------------------
+|        |        |   |        |
+|        |        ~   ~        |
+|        |        |   |        |
+|        |        |   |        |
+------ ~ ----------   ----------
+|                              |
+------ ~ ------- ~ --- ~ -------
+|        |          |          |
+|        |          |          |
+---------|          |          |
+         |          |          |
+         |          |          |
+         |          |          |
+         -----------------------
+
+
+
+--------------------------------
+| C      |        | X |        |
+|        |  C     ~   ~    C   |
+|        |  o     |   |     o  |
+|   o    |        |   |        |
+------ ~ ----------   ----------
+|                           o  |
+------ ~ ------- ~ --- ~ -------
+| o      |          |          |
+|     C  |          |          |
+---------| o        |        C |
+         |          |          |
+         |      o   |          |
+         | C        |       o  |
+         -----------------------
+
+15 x 32
+
+doors:
+(3,19) - office
+(3,23) - dining room
+(6,8) - bedroom
+(8,8) - bathroom
+(8,18) - kitchen
+(8,24) - living room
+
+bedroom:
+(2,3) - character
+(5,5) - discovery point
+
+office:
+(3,13) - character
+(4,13) - discovery point
+
+dining room:
+(3,28) - character 
+(4,29) - discovery point
+
+hallway:
+(7, 29) - discovery point
+
+bathroom:
+(10,7) - character
+(9,3) - discovery point
+
+kitchen:
+(14,12) - character
+(11,12) - discovery point
+(13, 17) - discovery point
+
+living room:
+(11,30) - character
+(14,29) - discovery point
+
+(5,5) - discovery point
+(4,13) - discovery point
+(4,29) - discovery point
+(7, 29) - discovery point
+(9,3) - discovery point
+(11,12) - discovery point
+(13, 17) - discovery point
+(14,29) - discovery point

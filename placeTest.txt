@@ -1,0 +1,8 @@
+Bedroom
+Bathroom
+Entryway
+Dining Room
+Hallway
+Living Room
+Kitchen
+Office
